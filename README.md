@@ -10,7 +10,7 @@ git clone https://github.com/dd080604/Live-Project-HW-3.git
 
 ```
 %cd Live-Project-HW-3
--r requirements
+pip install -r requirements.txt
 ```
 
 ```
